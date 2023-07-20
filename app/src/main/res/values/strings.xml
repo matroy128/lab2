@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">lab2</string>
+    <string name="app_name">Lab2</string>
+    <string name="toast_message">Label has been updated</string>
+    <string name="row_1_text">I love Android</string>
+    <string name="switch_text">Switch on/off</string>
+    <string name="button_text">Press Me</string>
+    <string name="checkbox_text">Check this out!</string>
+    <string name="edittext_hint">I love Android</string>
+
 </resources>

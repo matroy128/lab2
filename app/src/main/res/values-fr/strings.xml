@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab2 </string>
+    <string name="toast_message">L\'étiquette a été mis à jour </string>
+    <string name="row_1_text">J\'aime Android</string>
+    <string name="switch_text">Activer/Désactiver</string>
+    <string name="button_text">Presse moi</string>
+    <string name="checkbox_text">Regarde ça!</string>
+    <string name="edittext_hint">J\'aime Android</string>
+
+
+</resources>
